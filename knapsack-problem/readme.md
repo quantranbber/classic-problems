@@ -2,7 +2,7 @@
 
 Là 1 bài toán vô cùng nổi tiếng trong lập trình.
 
-***Tôi là 1 kẻ trộm mang theo 1 balo với trọng tải N. Với 1 list các loại đồ tôi có thể trộm được có tải trọng riêng và giá trị riêng. Làm sao để tính toán được nên trộm những thứ gì mà vẫn cho đủ vào balo được???***
+***Tôi là 1 kẻ trộm mang theo 1 balo với trọng tải N. Với 1 list các loại đồ tôi có thể trộm được có tải trọng riêng và giá trị riêng. Làm sao để tính toán được nên trộm những thứ gì sao cho giá trị tiền bạc lớn nhất mà vẫn cho đủ vào balo được???***
 
 ***input***
 
