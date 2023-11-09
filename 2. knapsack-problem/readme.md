@@ -44,4 +44,4 @@ sử dụng phương pháp quy hoạch động (dynamic programming), ta giải 
 
 1. ta tạo 1 mảng 2D để lưu tải thông tin từng tải trọng sẽ lấy tối đa bao nhiêu price.
 2. từ việc giải quyết các bài toán từ tải trọng bé nhất (1) đến N ta sẽ lấy được giá trị cần tính.
-3. độ phức tạp thuật toán Big O notation (limit * data.length)
+3. độ phức tạp thuật toán Big O notation = limit * data.length
