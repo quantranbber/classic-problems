@@ -1,4 +1,4 @@
-## Search problem
+## Search algorithms
 
 ở đây mình sẽ giới thiệu về 2 thuật toán search phổ biến nhất là linear search và binary search. Thao tác trên mảng 1 chiều.
 
